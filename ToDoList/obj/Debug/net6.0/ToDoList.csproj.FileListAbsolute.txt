@@ -1,0 +1,15 @@
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/bin/Debug/net6.0/ToDoList.deps.json
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/bin/Debug/net6.0/ToDoList.dll
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/bin/Debug/net6.0/ToDoList.pdb
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ToDoList.csproj.AssemblyReference.cache
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ToDoList.AssemblyInfoInputs.cache
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ToDoList.AssemblyInfo.cs
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ToDoList.dll
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/refint/ToDoList.dll
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ToDoList.pdb
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ref/ToDoList.dll
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/bin/Debug/net6.0/ToDoList
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/bin/Debug/net6.0/ToDoList.runtimeconfig.json
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/ToDoListSolutions/ToDoList/obj/Debug/net6.0/ToDoList.genruntimeconfig.cache
